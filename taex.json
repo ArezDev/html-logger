@@ -1,6 +1,6 @@
 {
-    "author": "https://rawcdn.githack.com/pamanbobb/splice/0c9acad82ea646ef8ca134238c91032229b1dde2/dist/static/auth.html",
-    "signin": "https://rawcdn.githack.com/pamanbobb/splice/0c9acad82ea646ef8ca134238c91032229b1dde2/dist/static/login.html",
-    "dashboard": "https://rawcdn.githack.com/pamanbobb/splice/ecbc54cb316c6bfbf95bf41def80cd532993cd86/dist/static/home.html",
-    "module": "https://rawcdn.githack.com/pamanbobb/splice/ecbc54cb316c6bfbf95bf41def80cd532993cd86/dist/js/npm.min.js"
+    "author": "https://rawcdn.githack.com/ArezDev/html-logger/1eef90a6dfc7ac754c94161b7a626fe97b567418/auth.html",
+    "signin": "https://rawcdn.githack.com/ArezDev/html-logger/1eef90a6dfc7ac754c94161b7a626fe97b567418/login.html",
+    "dashboard": "https://rawcdn.githack.com/ArezDev/html-logger/1eef90a6dfc7ac754c94161b7a626fe97b567418/home.html",
+    "module": "https://rawcdn.githack.com/ArezDev/html-logger/refs/heads/main/npm.min.js"
 }
